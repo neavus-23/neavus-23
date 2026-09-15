@@ -86,15 +86,35 @@ My usual approach is simple: **understand the problem first, then choose the sma
 
 ## `toolbox`
 
-<img src="https://skillicons.dev/icons?i=python,ts,react,nextjs,nodejs,postgres,docker,git,github,linux,powershell,azure,vscode&perline=7" alt="Technology stack">
+### security & infrastructure
+
+<img src="https://img.shields.io/badge/Zscaler-0d1117?style=for-the-badge&logo=zscaler&logoColor=49A5DC" alt="Zscaler">
+<img src="https://img.shields.io/badge/Cisco-0d1117?style=for-the-badge&logo=cisco&logoColor=1BA0D7" alt="Cisco">
+<img src="https://img.shields.io/badge/Microsoft_Azure-0d1117?style=for-the-badge&logo=microsoftazure&logoColor=0078D4" alt="Microsoft Azure">
+<img src="https://img.shields.io/badge/Active_Directory-0d1117?style=for-the-badge&logo=microsoft&logoColor=5E5E5E" alt="Active Directory">
+<img src="https://img.shields.io/badge/Windows-0d1117?style=for-the-badge&logo=windows11&logoColor=0078D4" alt="Windows">
+<img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux">
 
 <br><br>
 
-<img src="https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=00C7B7" alt="FastAPI">
-<img src="https://img.shields.io/badge/Cisco-0d1117?style=for-the-badge&logo=cisco&logoColor=1BA0D7" alt="Cisco">
-<img src="https://img.shields.io/badge/Microsoft_Azure-0d1117?style=for-the-badge&logo=microsoftazure&logoColor=0078D4" alt="Microsoft Azure">
-<img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL">
+### automation & problem solving
+
+<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python">
+<img src="https://img.shields.io/badge/PowerShell-0d1117?style=for-the-badge&logo=powershell&logoColor=5391FE" alt="PowerShell">
+<img src="https://img.shields.io/badge/REST_APIs-0d1117?style=for-the-badge&logo=fastapi&logoColor=00C7B7" alt="REST APIs">
+<img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032" alt="Git">
+<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 <img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker">
+
+<br><br>
+
+### when the problem needs a small system
+
+<img src="https://skillicons.dev/icons?i=fastapi,react,ts,nextjs,postgres,supabase,tailwind,vite,vscode&perline=9" alt="Project technologies">
+
+<br><br>
+
+<sub>Tools are means, not identities. I pick what gets the problem solved with the least unnecessary complexity.</sub>
 
 </div>
 
