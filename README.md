@@ -3,13 +3,13 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-  <img src="assets/banner-dark.svg" width="100%" alt="Eddy Vargas — Cybersecurity, Security Architecture and AI Security">
+  <img src="assets/banner-dark.svg" width="100%" alt="Eddy Vargas — Cybersecurity, Security Engineering and Software Builder">
 </picture>
 
 <br>
 
 <a href="https://github.com/neavus-23">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=850&color=22C55E&center=true&vCenter=true&width=920&lines=Eddy+Vargas+%E2%80%94+Cybersecurity+Specialist;Security+Architecture+%C2%B7+AI+Security+%C2%B7+Zero+Trust;Building+security+platforms%2C+not+just+dashboards" alt="Typing introduction">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=850&color=22C55E&center=true&vCenter=true&width=960&lines=Eddy+Vargas+%E2%80%94+Cybersecurity+Specialist;Security+Engineering+%C2%B7+Hacking+%C2%B7+Architecture+%C2%B7+Automation;Building+controls%2C+tools+and+occasionally+business+software;I+break+things+in+labs+so+production+can+die+of+natural+causes" alt="Typing introduction">
 </a>
 
 <br>
@@ -22,24 +22,26 @@
 
 ## `whoami`
 
-I'm **Eddy Vargas**, a cybersecurity professional from Costa Rica focused on designing and building security systems that connect **architecture, visibility, enforcement and governance**.
+I'm **Eddy Vargas**, a cybersecurity professional from Costa Rica who likes understanding how systems work, how they fail, and how to make them harder to abuse.
 
-My work sits at the intersection of **Security Architecture**, **AI Security**, **Zero Trust**, **network security**, **security automation**, and **API/application security**.
+Most of my work lives somewhere between **security engineering**, **architecture**, **network security**, **hacking**, **automation**, **controls**, and **software development**.
 
-I enjoy turning security requirements into systems that can actually **observe, decide, enforce and prove**.
+I also build software for businesses simply because I enjoy taking a messy process and turning it into something useful.
 
-Currently exploring how security architecture needs to evolve for a world of **LLMs, AI agents, RAG and MCP**.
+AI security is one of the areas I explore — alongside offensive security, Zero Trust, APIs, infrastructure, identity and whatever rabbit hole looks interesting enough that week.
+
+> I like systems with logs. Postmortems are easier when the corpse leaves evidence.
 
 ---
 
 <div align="center">
 
-## `security_focus`
+## `what_i_build_and_break`
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/security-focus-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/security-focus-light.svg">
-  <img src="assets/security-focus-dark.svg" width="100%" alt="Security focus areas">
+  <img src="assets/security-focus-dark.svg" width="100%" alt="Technical focus areas">
 </picture>
 
 </div>
@@ -52,7 +54,7 @@ Currently exploring how security architecture needs to evolve for a world of **L
 
 **AI Runtime Security & Governance Platform**
 
-A security control plane and runtime gateway for applications consuming LLMs, AI agents and MCP. The project focuses on runtime protection, policy enforcement, evidence, auditability, AI asset visibility and governance.
+A security control plane and runtime gateway for applications consuming LLMs, AI agents and MCP. It explores runtime protection, policy enforcement, evidence, asset visibility and governance as engineering problems rather than checkbox features.
 
 `Runtime Protection` · `Policy Enforcement` · `AI Asset Graph` · `MCP Governance` · `Risk` · `Evidence & Audit`
 
@@ -62,9 +64,9 @@ A security control plane and runtime gateway for applications consuming LLMs, AI
 
 ### ◈ CyberHub
 
-**Enterprise Security Visibility Platform**
+**Enterprise Security Visibility & Control Platform**
 
-A modular security operations portal built to correlate information from multiple security platforms instead of forcing analysts to work across isolated consoles.
+A modular security operations portal designed to correlate information from multiple security platforms, automate repetitive checks and turn scattered operational data into useful security context.
 
 `Cisco ASA / FTD` · `Sophos Central` · `CyberArk` · `Active Directory` · `SEPM`
 
@@ -74,9 +76,25 @@ A modular security operations portal built to correlate information from multipl
 
 ### ⚔️ Souls Dev Skill
 
-An experimental development workflow centered on deliberate engineering, adversarial review and disciplined implementation.
+An experimental development workflow centered on deliberate engineering, adversarial review and one simple rule: **never trust a successful implementation until you've tried to kill it yourself**.
 
 [View repository →](https://github.com/neavus-23/souls-dev-skill)
+
+---
+
+## `business_side_quests`
+
+Security is the day job. Building things is the hobby that got out of control.
+
+I enjoy creating practical software for real-world operations: internal tools, dashboards, automation, customer experiences and small SaaS-style products.
+
+Some current private builds include:
+
+- **Flashé Loyalty** — digital loyalty and customer retention platform.
+- **Flashé Manager** — internal operations / CRM tooling for a small business.
+- **Automation tools** — scripts and utilities for removing repetitive work before it removes my will to live.
+
+The goal is usually the same: **less manual work, fewer spreadsheets pretending to be databases, and software that solves an actual problem.**
 
 ---
 
@@ -106,23 +124,34 @@ An experimental development workflow centered on deliberate engineering, adversa
 
 <br>
 
-`AI Security` → `Security Architecture` → `Advanced Security Engineering`
+`Security Engineering` · `Architecture` · `Offensive Security` · `AI Security` · `Automation`
 
 </div>
 
 ---
 
-## `engineering_principles`
+## `how_i_think_about_security`
 
 ```text
-visibility   → know what exists
-context      → understand what matters
-policy       → define what should happen
-enforcement  → make the decision real
-evidence     → prove what happened
+understand  → know what actually exists
+observe     → collect evidence, not assumptions
+attack      → find out how it fails
+control     → reduce what can go wrong
+automate    → stop solving the same problem twice
+verify      → because "it should work" is not a test
 ```
 
-> Security isn't a dashboard. It's a **control system**.
+> "Trust me" is not a security control.
+
+---
+
+## `side_quests`
+
+When I'm not building or breaking systems, there's a good chance I'm:
+
+`Gaming` · `CTFs & hacking labs` · `PC hardware` · `FPV drones` · `Photography / video` · `Building unnecessary projects because I had an idea at 1 AM`
+
+I like games for roughly the same reason I like security: **learn the rules, understand the system, find the edge cases, defeat the boss.**
 
 ---
 
@@ -130,12 +159,12 @@ evidence     → prove what happened
 
 ## `currently_exploring`
 
-AI Runtime Security · Agent Security · MCP Security · Security Graphs  
-Attack Paths · API Security · Zero Trust Architecture · Security Automation
+Security Architecture · Offensive Security · Attack Paths · API Security · Zero Trust  
+Security Automation · AI / Agent Security · MCP · Business Software · Whatever breaks next
 
-<br>
+<br><br>
 
-<sub>security architecture · ai security · engineering</sub>
+<sub>build things · break things · understand why they broke · build them better</sub>
 
 <br>
 
