@@ -40,9 +40,6 @@ I'm **Eddy Vargas**, a cybersecurity professional from Costa Rica. I like unders
 <div align="center">
 
 <img src="assets/projects-dark.v4.svg" width="100%" alt="Selected security and business projects">
-
-<br><br>
-
 <sub>Also experimenting with <a href="https://github.com/neavus-23/souls-dev-skill">Souls Dev Skill</a> — evidence-driven technical work with a healthy distrust of implementations that pass on the first try.</sub>
 
 </div>
