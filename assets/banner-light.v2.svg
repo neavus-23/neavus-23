@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Eddy Vargas cybersecurity profile banner</title>
+  <desc id="desc">Light terminal-inspired banner for cybersecurity, security engineering, hacking and building software.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F8FAFC"/><stop offset="1" stop-color="#EEF6F9"/></linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#15803D"/><stop offset="1" stop-color="#0284C7"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#334155" stroke-opacity="0.055"/></pattern>
+  </defs>
+  <rect width="1200" height="320" rx="24" fill="url(#bg)"/><rect width="1200" height="320" rx="24" fill="url(#grid)"/><rect x="1" y="1" width="1198" height="318" rx="23" fill="none" stroke="#CBD5E1"/>
+  <circle cx="42" cy="34" r="6" fill="#FF5F56"/><circle cx="64" cy="34" r="6" fill="#FFBD2E"/><circle cx="86" cy="34" r="6" fill="#27C93F"/>
+  <text x="108" y="40" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" fill="#64748B">neavus@lab:~$ ./profile --verbose</text>
+  <text x="58" y="112" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#15803D">$ whoami</text>
+  <text x="58" y="167" font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="800" font-size="44" fill="#0F172A" letter-spacing="1.5">EDDY VARGAS</text>
+  <text x="58" y="207" font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="600" font-size="22" fill="#334155">Cybersecurity · Security Engineering · Hacking · Software Builder</text>
+  <g transform="translate(58,252)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" font-weight="700"><text x="0" y="0" fill="#15803D">UNDERSTAND</text><text x="135" y="0" fill="#64748B">→</text><text x="175" y="0" fill="#0284C7">BREAK</text><text x="250" y="0" fill="#64748B">→</text><text x="290" y="0" fill="#15803D">CONTROL</text><text x="390" y="0" fill="#64748B">→</text><text x="430" y="0" fill="#0284C7">BUILD BETTER</text></g>
+  <rect x="58" y="284" width="560" height="3" rx="2" fill="url(#line)"/>
+  <g transform="translate(875,84)" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M100 0 190 52v104l-90 52-90-52V52Z" stroke="#15803D" stroke-opacity="0.28" stroke-width="2"/><path d="M100 28 166 66v76l-66 38-66-38V66Z" stroke="#0284C7" stroke-opacity="0.34" stroke-width="2"/><path d="M100 58 140 81v46l-40 23-40-23V81Z" stroke="#15803D" stroke-width="3"/><circle cx="100" cy="104" r="9" fill="#15803D" stroke="none"/><path d="M100 58V28M140 81l26-15M140 127l26 15M100 150v30M60 127l-26 15M60 81 34 66" stroke="#64748B" stroke-opacity="0.7"/></g>
+</svg>
