@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500" viewBox="0 0 1200 500" role="img" aria-labelledby="title desc">
+<title id="title">Eddy Vargas — Linux terminal profile</title>
+<desc id="desc">A dark Linux tmux-style terminal showing a public-safe cybersecurity profile, controls workflow, and personal projects.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#05080c"/><stop offset="1" stop-color="#0a0f15"/></linearGradient>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#7ee787"/><stop offset="1" stop-color="#58a6ff"/></linearGradient>
+  <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><path d="M0 3.5H4" stroke="#ffffff" stroke-opacity=".018"/></pattern>
+  <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+
+<rect width="1200" height="500" rx="16" fill="url(#bg)"/>
+<rect width="1200" height="500" rx="16" fill="url(#scan)"/>
+<rect x=".5" y=".5" width="1199" height="499" rx="15.5" fill="none" stroke="#26303b"/>
+
+<!-- Linux terminal header -->
+<rect x="1" y="1" width="1198" height="38" rx="15" fill="#111720"/>
+<rect x="1" y="24" width="1198" height="15" fill="#111720"/>
+<g font-family="ui-sans-serif,-apple-system,Segoe UI,Helvetica,Arial,sans-serif">
+  <path d="M22 14h17v17H22z" fill="#17212b" stroke="#33404e"/>
+  <path d="M26 19l4 4-4 4M32 27h4" fill="none" stroke="#7ee787" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="49" y="25" font-size="12.5" fill="#c9d1d9">eddy@workstation: ~ — bash</text>
+  <g stroke="#8b949e" stroke-width="1.4" stroke-linecap="round" fill="none">
+    <line x1="1120" y1="20" x2="1132" y2="20"/>
+    <rect x="1148" y="14" width="12" height="12" rx="1.5"/>
+    <line x1="1175" y1="14" x2="1187" y2="26"/>
+    <line x1="1187" y1="14" x2="1175" y2="26"/>
+  </g>
+</g>
+
+<!-- pane borders -->
+<line x1="753" y1="39" x2="753" y2="466" stroke="#26303b"/>
+<line x1="754" y1="297" x2="1199" y2="297" stroke="#26303b"/>
+
+<!-- LEFT PANE -->
+<g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
+  <text x="28" y="69" font-size="13" fill="#58a6ff">eddy@workstation</text><text x="153" y="69" font-size="13" fill="#8b949e">:</text><text x="162" y="69" font-size="13" fill="#d2a8ff">~</text><text x="174" y="69" font-size="13" fill="#8b949e">$</text><text x="190" y="69" font-size="13" fill="#f0f6fc">whoami</text>
+  <text x="28" y="94" font-size="17" font-weight="700" fill="#7ee787" filter="url(#glow)">Eddy Vargas</text>
+  <text x="28" y="116" font-size="12" fill="#8b949e">Cybersecurity specialist · public profile</text>
+
+  <text x="28" y="151" font-size="13" fill="#58a6ff">eddy@workstation</text><text x="153" y="151" font-size="13" fill="#8b949e">:</text><text x="162" y="151" font-size="13" fill="#d2a8ff">~</text><text x="174" y="151" font-size="13" fill="#8b949e">$</text><text x="190" y="151" font-size="13" fill="#f0f6fc">cat ./focus</text>
+  <text x="28" y="176" font-size="12.5" fill="#c9d1d9">security engineering   architecture   controls   automation</text>
+  <text x="28" y="198" font-size="12.5" fill="#c9d1d9">problem solving        evidence       APIs       emerging tech</text>
+
+  <text x="28" y="233" font-size="13" fill="#58a6ff">eddy@workstation</text><text x="153" y="233" font-size="13" fill="#8b949e">:</text><text x="162" y="233" font-size="13" fill="#d2a8ff">~</text><text x="174" y="233" font-size="13" fill="#8b949e">$</text><text x="190" y="233" font-size="13" fill="#f0f6fc">./solve --mode practical</text>
+
+  <text x="28" y="263" font-size="12" fill="#8b949e">[01]</text><text x="66" y="263" font-size="12" fill="#c9d1d9">understand context</text><text x="254" y="263" font-size="12" fill="#7ee787">[OK]</text>
+  <text x="28" y="287" font-size="12" fill="#8b949e">[02]</text><text x="66" y="287" font-size="12" fill="#c9d1d9">find the risk that matters</text><text x="254" y="287" font-size="12" fill="#7ee787">[OK]</text>
+  <text x="28" y="311" font-size="12" fill="#8b949e">[03]</text><text x="66" y="311" font-size="12" fill="#c9d1d9">design the smallest useful control</text><text x="318" y="311" font-size="12" fill="#7ee787">[OK]</text>
+  <text x="28" y="335" font-size="12" fill="#8b949e">[04]</text><text x="66" y="335" font-size="12" fill="#c9d1d9">automate only where it helps</text><text x="292" y="335" font-size="12" fill="#7ee787">[OK]</text>
+  <text x="28" y="359" font-size="12" fill="#8b949e">[05]</text><text x="66" y="359" font-size="12" fill="#c9d1d9">verify with evidence</text><text x="236" y="359" font-size="12" fill="#58a6ff">[RUNNING]</text>
+
+  <text x="28" y="395" font-size="12" fill="#d29922">warning:</text><text x="91" y="395" font-size="12" fill="#8b949e">a green dashboard is not a risk treatment plan.</text>
+
+  <text x="28" y="430" font-size="13" fill="#58a6ff">eddy@workstation</text><text x="153" y="430" font-size="13" fill="#8b949e">:</text><text x="162" y="430" font-size="13" fill="#d2a8ff">~</text><text x="174" y="430" font-size="13" fill="#8b949e">$</text><rect x="190" y="418" width="8" height="15" rx="1" fill="#7ee787"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
+</g>
+
+<!-- RIGHT TOP PANE -->
+<g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
+  <text x="776" y="67" font-size="11" fill="#8b949e">┌─ riskctl status ───────────────────────────────┐</text>
+  <text x="776" y="91" font-size="12" fill="#c9d1d9">context</text><text x="910" y="91" font-size="12" fill="#7ee787">ready</text>
+  <text x="776" y="116" font-size="12" fill="#c9d1d9">controls</text><text x="910" y="116" font-size="12" fill="#7ee787">designed</text>
+  <text x="776" y="141" font-size="12" fill="#c9d1d9">automation</text><text x="910" y="141" font-size="12" fill="#58a6ff">selective</text>
+  <text x="776" y="166" font-size="12" fill="#c9d1d9">evidence</text><text x="910" y="166" font-size="12" fill="#d2a8ff">collecting</text>
+  <text x="776" y="191" font-size="12" fill="#c9d1d9">opsec</text><text x="910" y="191" font-size="12" fill="#7ee787">public-safe</text>
+  <text x="776" y="217" font-size="11" fill="#8b949e">└───────────────────────────────────────────────┘</text>
+
+  <text x="776" y="249" font-size="11" fill="#8b949e">$ printf '%s\n' "$RULE"</text>
+  <text x="776" y="272" font-size="12" fill="#7ee787">tools are means, not identities.</text>
+</g>
+
+<!-- RIGHT BOTTOM PANE -->
+<g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
+  <text x="776" y="326" font-size="11" fill="#8b949e">~/projects  $  ls -1</text>
+  <text x="776" y="355" font-size="12.5" fill="#7ee787">marvaris-guardian/</text><text x="965" y="355" font-size="11" fill="#8b949e">runtime security</text>
+  <text x="776" y="382" font-size="12.5" fill="#58a6ff">cyberhub/</text><text x="965" y="382" font-size="11" fill="#8b949e">security visibility</text>
+  <text x="776" y="409" font-size="12.5" fill="#d2a8ff">business-side-quests/</text><text x="965" y="409" font-size="11" fill="#8b949e">solve first</text>
+  <text x="776" y="441" font-size="11" fill="#8b949e">3 dirs · personal / portfolio only</text>
+</g>
+
+<!-- tmux status bar -->
+<rect x="1" y="466" width="1198" height="33" rx="0" fill="#111820"/>
+<g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5">
+  <rect x="1" y="466" width="112" height="33" fill="#7ee787"/>
+  <text x="15" y="487" fill="#071009" font-weight="700">[profile]</text>
+  <text x="132" y="487" fill="#f0f6fc">0:bash*</text>
+  <text x="214" y="487" fill="#8b949e">1:controls</text>
+  <text x="309" y="487" fill="#8b949e">2:projects</text>
+  <text x="1172" y="487" text-anchor="end" fill="#58a6ff">public-safe</text>
+</g>
+<rect x="1" y="464" width="1198" height="2" fill="url(#line)" opacity=".8"/>
+</svg>
