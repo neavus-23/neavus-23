@@ -58,15 +58,11 @@ A security control plane and runtime gateway for applications consuming LLMs, AI
 
 `Runtime Protection` · `Policy Enforcement` · `AI Asset Graph` · `MCP Governance` · `Risk` · `Evidence & Audit`
 
-> Private project. AI Security is one area I explore — not the entirety of what I do.
-
 ### ◈ CyberHub
 
 **Enterprise Security Visibility & Control Platform**
 
 A modular security operations solution designed to correlate information from different security platforms, automate repetitive checks and turn scattered operational data into useful security context.
-
-`Cisco ASA / FTD` · `Sophos Central` · `CyberArk` · `Active Directory` · `SEPM`
 
 ### ⚔️ Souls Dev Skill
 
@@ -81,12 +77,6 @@ An experimental workflow for disciplined, evidence-driven technical work built a
 I also enjoy solving non-security problems for businesses.
 
 Sometimes the right answer is a process change. Sometimes it's automation. Sometimes it's a small system that prevents another spreadsheet from evolving into critical infrastructure.
-
-Some private projects include:
-
-- **Flashé Loyalty** — loyalty and customer-retention solution.
-- **Flashé Manager** — internal operations and customer-management tooling.
-- **Automation utilities** — small tools for removing repetitive work before repetition becomes an incident of its own.
 
 My usual approach is simple: **understand the problem first, then choose the smallest solution that actually fixes it.**
 
