@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero-dark.v5.svg" width="100%" alt="Eddy Vargas — Cybersecurity Specialist">
+<img src="assets/hero-dark.v6.svg" width="100%" alt="Eddy Vargas — Cybersecurity Specialist">
 
 <br>
 
