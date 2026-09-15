@@ -78,12 +78,6 @@ An experimental development workflow centered on deliberate engineering, adversa
 
 [View repository →](https://github.com/neavus-23/souls-dev-skill)
 
-### 🧪 GOAD
-
-A public lab environment used for Active Directory security research and hands-on offensive/defensive experimentation.
-
-[View repository →](https://github.com/neavus-23/GOAD)
-
 ---
 
 <div align="center">
