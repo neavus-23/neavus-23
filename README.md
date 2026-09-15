@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.v3.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.v3.svg">
-  <img src="assets/banner-dark.v3.svg" width="100%" alt="Eddy Vargas — Cybersecurity, Security Architecture, Controls and Problem Solving">
+  <img src="assets/banner-dark.v3.svg" width="100%" alt="Eddy Vargas — Cybersecurity">
 </picture>
 
 <br>
