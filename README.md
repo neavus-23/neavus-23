@@ -56,16 +56,6 @@ I'm **Eddy Vargas**, a cybersecurity professional from Costa Rica. I like unders
 
 </div>
 
----
-
-<div align="center">
-
-<img src="assets/credentials-dark.v4.svg" width="100%" alt="Security credentials">
-
-</div>
-
----
-
 When security isn't consuming the available RAM:
 
 `Gaming` · `CTFs & hacking labs` · `PC hardware` · `FPV drones` · `Photography / video` · `Business ideas` · `Random technical rabbit holes`
