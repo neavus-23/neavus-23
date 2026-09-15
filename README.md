@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="assets/hero-dark.v7.svg" width="100%" alt="Eddy Vargas — Cybersecurity Specialist">
+<img src="assets/hero-dark.v8.svg" width="100%" alt="Eddy Vargas — Neavus 23">
 
 <br>
 
 <a href="https://github.com/neavus-23">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2600&pause=900&color=7EE787&center=true&vCenter=true&width=980&lines=Security+Engineering+%C2%B7+Architecture+%C2%B7+Controls+%C2%B7+Automation;Code+when+useful+%C2%B7+Evidence+always;Risk+doesn't+disappear+because+the+dashboard+is+green" alt="typing banner">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2600&pause=900&color=7EE787&center=true&vCenter=true&width=980&lines=Architecture+%C2%B7+Automation+%C2%B7+Systems+%C2%B7+Problem+Solving;Follow+the+signal+%C2%B7+Remove+the+noise;Logs+remember+what+people+forget" alt="typing banner">
 </a>
 
 <br>
@@ -18,14 +18,14 @@
 
 ## This is me :)
 
-I'm **Eddy Vargas**, a cybersecurity professional who enjoys understanding complex systems, figuring out where risk actually lives, and turning that context into controls that make sense outside a PowerPoint.
+I'm **Eddy Vargas**, a security professional who likes taking messy systems, finding the signal, and turning uncertainty into decisions that survive contact with reality.
 
-- 🛡️ My interests sit around **security engineering, architecture, controls, automation and problem solving**.
+- 🛡️ My work tends to orbit **architecture, network & identity, risk reduction, visibility, automation and problem solving**.
 - 🔧 I'm **not a software developer by trade**. I use code, APIs and small systems when they're the shortest useful path to solving a problem.
-- 🧠 I explore **AI security, application security and emerging technologies** when they intersect with real security problems.
-- 🎮 Outside work, I usually end up somewhere around **gaming, security labs, hardware and random technical projects**.
+- 🧠 I explore **AI, applications and emerging technologies** whenever they create an interesting systems problem.
+- 🎮 Outside work, I usually end up somewhere around **gaming, technical labs, hardware and random projects**.
 
-> I prefer controls that fail loudly and logs that survive the incident.
+> Logs have better memory than meetings.
 
 ---
 
@@ -33,7 +33,7 @@ I'm **Eddy Vargas**, a cybersecurity professional who enjoys understanding compl
 
 ## `signals`
 
-<img src="assets/signals-dark.v5.svg" width="100%" alt="Security focus and problem-solving workflow">
+<img src="assets/signals-dark.v6.svg" width="100%" alt="Systems thinking and problem-solving workflow">
 
 </div>
 
@@ -43,7 +43,7 @@ I'm **Eddy Vargas**, a cybersecurity professional who enjoys understanding compl
 
 ## `selected builds`
 
-<img src="assets/projects-dark.v4.svg" width="100%" alt="Selected personal security and business projects">
+<img src="assets/projects-dark.v4.svg" width="100%" alt="Selected personal projects">
 
 <br><br>
 
@@ -75,7 +75,7 @@ I'm **Eddy Vargas**, a cybersecurity professional who enjoys understanding compl
 
 ## `credentials`
 
-<img src="assets/credentials-dark.v4.svg" width="100%" alt="Security credentials">
+<img src="assets/credentials-dark.v4.svg" width="100%" alt="Professional credentials">
 
 </div>
 
@@ -83,9 +83,9 @@ I'm **Eddy Vargas**, a cybersecurity professional who enjoys understanding compl
 
 ## `side quests`
 
-When security isn't consuming the available RAM:
+When work isn't consuming the available RAM:
 
-`Gaming` · `Security labs` · `PC hardware` · `Maker projects` · `Business ideas` · `Technical rabbit holes`
+`Gaming` · `Technical labs` · `PC hardware` · `Maker projects` · `Business ideas` · `Technical rabbit holes`
 
 I like learning systems from different angles. Games scratch roughly the same itch: **learn the rules, understand the system, find the edge cases, defeat the boss.**
 
@@ -93,7 +93,7 @@ I like learning systems from different angles. Games scratch roughly the same it
 
 <div align="center">
 
-<sub>` understand the system · design the control · solve the problem · verify the result `</sub>
+<sub>` understand the system · find the signal · make the change · verify the result `</sub>
 
 <br><br>
 
