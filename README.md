@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero-dark.v4.svg" width="100%" alt="Eddy Vargas — Cybersecurity Specialist">
+<img src="assets/hero-dark.v5.svg" width="100%" alt="Eddy Vargas — Cybersecurity Specialist">
 
 <br>
 
@@ -18,12 +18,12 @@
 
 ## This is me :)
 
-I'm **Eddy Vargas**, a cybersecurity professional from Costa Rica. I like understanding complex systems, figuring out where risk actually lives, and turning that context into controls that make sense outside a PowerPoint.
+I'm **Eddy Vargas**, a cybersecurity professional who enjoys understanding complex systems, figuring out where risk actually lives, and turning that context into controls that make sense outside a PowerPoint.
 
-- 🛡️ Most of my work sits around **security engineering, architecture, network security, identity, controls and automation**.
+- 🛡️ My interests sit around **security engineering, architecture, controls, automation and problem solving**.
 - 🔧 I'm **not a software developer by trade**. I use code, APIs and small systems when they're the shortest useful path to solving a problem.
 - 🧠 I explore **AI security, application security and emerging technologies** when they intersect with real security problems.
-- 🎮 Outside work: **gaming, CTFs and hacking labs, PC hardware, FPV drones, photography/video** and projects that usually begin with *"this should take an hour."*
+- 🎮 Outside work, I usually end up somewhere around **gaming, security labs, hardware and random technical projects**.
 
 > I prefer controls that fail loudly and logs that survive the incident.
 
@@ -31,7 +31,9 @@ I'm **Eddy Vargas**, a cybersecurity professional from Costa Rica. I like unders
 
 <div align="center">
 
-<img src="assets/signals-dark.v4.svg" width="100%" alt="Security signals and problem-solving workflow">
+## `signals`
+
+<img src="assets/signals-dark.v5.svg" width="100%" alt="Security focus and problem-solving workflow">
 
 </div>
 
@@ -39,7 +41,16 @@ I'm **Eddy Vargas**, a cybersecurity professional from Costa Rica. I like unders
 
 <div align="center">
 
-<img src="assets/projects-dark.v4.svg" width="100%" alt="Selected security and business projects">
+## `selected builds`
+
+<img src="assets/projects-dark.v4.svg" width="100%" alt="Selected personal security and business projects">
+
+<br><br>
+
+<sub>Personal and portfolio projects only. Employer environments, internal tooling and operational details stay off the public profile.</sub>
+
+<br><br>
+
 <sub>Also experimenting with <a href="https://github.com/neavus-23/souls-dev-skill">Souls Dev Skill</a> — evidence-driven technical work with a healthy distrust of implementations that pass on the first try.</sub>
 
 </div>
@@ -48,7 +59,9 @@ I'm **Eddy Vargas**, a cybersecurity professional from Costa Rica. I like unders
 
 <div align="center">
 
-<img src="assets/toolbox-dark.v4.svg" width="100%" alt="Daily toolbox">
+## `toolbox`
+
+<img src="assets/toolbox-dark.v5.svg" width="100%" alt="Public-safe personal project toolbox">
 
 <br>
 
@@ -56,11 +69,25 @@ I'm **Eddy Vargas**, a cybersecurity professional from Costa Rica. I like unders
 
 </div>
 
+---
+
+<div align="center">
+
+## `credentials`
+
+<img src="assets/credentials-dark.v4.svg" width="100%" alt="Security credentials">
+
+</div>
+
+---
+
+## `side quests`
+
 When security isn't consuming the available RAM:
 
-`Gaming` · `CTFs & hacking labs` · `PC hardware` · `FPV drones` · `Photography / video` · `Business ideas` · `Random technical rabbit holes`
+`Gaming` · `Security labs` · `PC hardware` · `Maker projects` · `Business ideas` · `Technical rabbit holes`
 
-I enjoy hacking and CTFs as a way to understand systems from another angle — curiosity first, job title second. Games scratch roughly the same itch: **learn the rules, understand the system, find the edge cases, defeat the boss.**
+I like learning systems from different angles. Games scratch roughly the same itch: **learn the rules, understand the system, find the edge cases, defeat the boss.**
 
 ---
 
