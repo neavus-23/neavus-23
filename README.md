@@ -31,8 +31,6 @@ I'm **Eddy Vargas**, a cybersecurity professional from Costa Rica. I like unders
 
 <div align="center">
 
-## `signals`
-
 <img src="assets/signals-dark.v4.svg" width="100%" alt="Security signals and problem-solving workflow">
 
 </div>
@@ -40,8 +38,6 @@ I'm **Eddy Vargas**, a cybersecurity professional from Costa Rica. I like unders
 ---
 
 <div align="center">
-
-## `selected builds`
 
 <img src="assets/projects-dark.v4.svg" width="100%" alt="Selected security and business projects">
 
@@ -55,8 +51,6 @@ I'm **Eddy Vargas**, a cybersecurity professional from Costa Rica. I like unders
 
 <div align="center">
 
-## `toolbox`
-
 <img src="assets/toolbox-dark.v4.svg" width="100%" alt="Daily toolbox">
 
 <br>
@@ -69,15 +63,11 @@ I'm **Eddy Vargas**, a cybersecurity professional from Costa Rica. I like unders
 
 <div align="center">
 
-## `credentials`
-
 <img src="assets/credentials-dark.v4.svg" width="100%" alt="Security credentials">
 
 </div>
 
 ---
-
-## `side quests`
 
 When security isn't consuming the available RAM:
 
