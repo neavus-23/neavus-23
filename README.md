@@ -1,84 +1,55 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.v3.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.v3.svg">
-  <img src="assets/banner-dark.v3.svg" width="100%" alt="Eddy Vargas — Cybersecurity">
-</picture>
+<img src="assets/hero-dark.v4.svg" width="100%" alt="Eddy Vargas — Cybersecurity Specialist">
 
 <br>
 
 <a href="https://github.com/neavus-23">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=850&color=22C55E&center=true&vCenter=true&width=980&lines=Eddy+Vargas+%E2%80%94+Cybersecurity+Specialist;Security+Engineering+%C2%B7+Architecture+%C2%B7+Controls+%C2%B7+Automation;Solving+technical+problems+with+context+and+just+enough+code;%22Trust+me%22+is+not+a+security+control" alt="Typing introduction">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2600&pause=900&color=7EE787&center=true&vCenter=true&width=980&lines=Security+Engineering+%C2%B7+Architecture+%C2%B7+Controls+%C2%B7+Automation;Code+when+useful+%C2%B7+Evidence+always;Risk+doesn't+disappear+because+the+dashboard+is+green" alt="typing banner">
 </a>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=neavus-23&style=flat&color=22c55e&label=profile+views" alt="Profile views">
+<img src="https://komarev.com/ghpvc/?username=neavus-23&style=flat&color=7ee787&label=profile+views" alt="profile views">
 
 </div>
 
 ---
 
-## `whoami`
+## This is me :)
 
-I'm **Eddy Vargas**, a cybersecurity professional from Costa Rica who enjoys understanding complex systems, finding where they can fail, and turning that context into practical security decisions.
+I'm **Eddy Vargas**, a cybersecurity professional from Costa Rica. I like understanding complex systems, figuring out where risk actually lives, and turning that context into controls that make sense outside a PowerPoint.
 
-My work and interests sit around **security engineering**, **architecture**, **network security**, **identity**, **controls**, **automation**, **APIs** and **problem solving**.
+- 🛡️ Most of my work sits around **security engineering, architecture, network security, identity, controls and automation**.
+- 🔧 I'm **not a software developer by trade**. I use code, APIs and small systems when they're the shortest useful path to solving a problem.
+- 🧠 I explore **AI security, application security and emerging technologies** when they intersect with real security problems.
+- 🎮 Outside work: **gaming, CTFs and hacking labs, PC hardware, FPV drones, photography/video** and projects that usually begin with *"this should take an hour."*
 
-I'm **not a software developer by trade**. I use code when it helps solve the problem better — whether that's automating a security check, correlating data from several platforms, building an internal tool or improving a business workflow.
-
-I also explore AI security, application security and emerging technologies when they intersect with real security problems rather than because they're fashionable.
-
-> I like systems with logs. Memory is unreliable; evidence has better uptime.
+> I prefer controls that fail loudly and logs that survive the incident.
 
 ---
 
 <div align="center">
 
-## `what_i_do`
+## `signals`
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/focus-dark.v3.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/focus-light.v3.svg">
-  <img src="assets/focus-dark.v3.svg" width="100%" alt="Technical focus areas">
-</picture>
+<img src="assets/signals-dark.v4.svg" width="100%" alt="Security signals and problem-solving workflow">
 
 </div>
 
 ---
 
-## `projects_and_experiments`
+<div align="center">
 
-### 🛡️ Marvaris Guardian
+## `selected builds`
 
-**AI Runtime Security & Governance Platform**
+<img src="assets/projects-dark.v4.svg" width="100%" alt="Selected security and business projects">
 
-A security control plane and runtime gateway for applications consuming LLMs, AI agents and MCP. It explores policy enforcement, runtime protection, evidence, asset visibility and governance as engineering problems rather than checkbox features.
+<br><br>
 
-`Runtime Protection` · `Policy Enforcement` · `AI Asset Graph` · `MCP Governance` · `Risk` · `Evidence & Audit`
+<sub>Also experimenting with <a href="https://github.com/neavus-23/souls-dev-skill">Souls Dev Skill</a> — evidence-driven technical work with a healthy distrust of implementations that pass on the first try.</sub>
 
-### ◈ CyberHub
-
-**Enterprise Security Visibility & Control Platform**
-
-A modular security operations solution designed to correlate information from different security platforms, automate repetitive checks and turn scattered operational data into useful security context.
-
-### ⚔️ Souls Dev Skill
-
-An experimental workflow for disciplined, evidence-driven technical work built around one rule: **never trust a successful implementation until you've tried to prove it wrong**.
-
-[View repository →](https://github.com/neavus-23/souls-dev-skill)
-
----
-
-## `business_side_quests`
-
-I also enjoy solving non-security problems for businesses.
-
-Sometimes the right answer is a process change. Sometimes it's automation. Sometimes it's a small system that prevents another spreadsheet from evolving into critical infrastructure.
-
-My usual approach is simple: **understand the problem first, then choose the smallest solution that actually fixes it.**
+</div>
 
 ---
 
@@ -86,35 +57,11 @@ My usual approach is simple: **understand the problem first, then choose the sma
 
 ## `toolbox`
 
-### security & infrastructure
+<img src="assets/toolbox-dark.v4.svg" width="100%" alt="Daily toolbox">
 
-<img src="https://img.shields.io/badge/Zscaler-0d1117?style=for-the-badge&logo=zscaler&logoColor=49A5DC" alt="Zscaler">
-<img src="https://img.shields.io/badge/Cisco-0d1117?style=for-the-badge&logo=cisco&logoColor=1BA0D7" alt="Cisco">
-<img src="https://img.shields.io/badge/Microsoft_Azure-0d1117?style=for-the-badge&logo=microsoftazure&logoColor=0078D4" alt="Microsoft Azure">
-<img src="https://img.shields.io/badge/Active_Directory-0d1117?style=for-the-badge&logo=microsoft&logoColor=5E5E5E" alt="Active Directory">
-<img src="https://img.shields.io/badge/Windows-0d1117?style=for-the-badge&logo=windows11&logoColor=0078D4" alt="Windows">
-<img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux">
+<br>
 
-<br><br>
-
-### automation & problem solving
-
-<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python">
-<img src="https://img.shields.io/badge/PowerShell-0d1117?style=for-the-badge&logo=powershell&logoColor=5391FE" alt="PowerShell">
-<img src="https://img.shields.io/badge/REST_APIs-0d1117?style=for-the-badge&logo=fastapi&logoColor=00C7B7" alt="REST APIs">
-<img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032" alt="Git">
-<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-<img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker">
-
-<br><br>
-
-### when the problem needs a small system
-
-<img src="https://skillicons.dev/icons?i=fastapi,react,ts,nextjs,postgres,supabase,tailwind,vite,vscode&perline=9" alt="Project technologies">
-
-<br><br>
-
-<sub>Tools are means, not identities. I pick what gets the problem solved with the least unnecessary complexity.</sub>
+<sub>Tools are means, not identities. Pick what solves the problem without creating three new ones.</sub>
 
 </div>
 
@@ -124,55 +71,27 @@ My usual approach is simple: **understand the problem first, then choose the sma
 
 ## `credentials`
 
-**CompTIA Security+** · **CompTIA CySA+** · **CCSK** · **Microsoft AZ-700** · **eJPT**
-
-<br>
-
-`Security Engineering` · `Architecture` · `Network Security` · `Controls` · `Automation` · `AI Security`
+<img src="assets/credentials-dark.v4.svg" width="100%" alt="Security credentials">
 
 </div>
 
 ---
 
-## `how_i_think`
+## `side quests`
 
-```text
-understand  → know what actually exists
-observe     → collect evidence, not assumptions
-design      → choose controls that fit the problem
-implement   → make the decision real
-automate    → stop solving the same problem manually
-verify      → because "it should work" is not a test
-```
+When security isn't consuming the available RAM:
 
-> "Trust me" is not a security control.
+`Gaming` · `CTFs & hacking labs` · `PC hardware` · `FPV drones` · `Photography / video` · `Business ideas` · `Random technical rabbit holes`
 
----
-
-## `side_quests`
-
-When I'm not working on security problems, there's a good chance I'm somewhere around:
-
-`Gaming` · `CTFs & hacking labs` · `PC hardware` · `FPV drones` · `Photography / video` · `Projects that started with "this should take an hour"`
-
-I enjoy hacking and CTFs as a way to understand systems from another angle — curiosity first, job title second.
-
-And games? Mostly the same pattern: **learn the rules, understand the system, find the edge cases, defeat the boss.**
+I enjoy hacking and CTFs as a way to understand systems from another angle — curiosity first, job title second. Games scratch roughly the same itch: **learn the rules, understand the system, find the edge cases, defeat the boss.**
 
 ---
 
 <div align="center">
 
-## `currently_exploring`
-
-Security Architecture · Security Engineering · Zero Trust · Network Security · API Security  
-Security Automation · AI / Agent Security · MCP · Business Solutions · Whatever problem looks interesting next
+<sub>` understand the system · design the control · solve the problem · verify the result `</sub>
 
 <br><br>
-
-<sub>understand the system · design the control · solve the problem · verify the result</sub>
-
-<br>
 
 <sub>github.com/neavus-23</sub>
 
