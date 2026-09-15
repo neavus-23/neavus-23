@@ -18,9 +18,9 @@
 
 ## This is me :)
 
-I'm **Eddy Vargas**, a security professional who likes taking messy systems, finding the signal, and turning uncertainty into decisions that survive contact with reality.
+I'm **Eddy Vargas**. I like taking messy technical environments, finding the signal, and turning uncertainty into decisions that survive contact with reality.
 
-- 🛡️ My work tends to orbit **architecture, network & identity, risk reduction, visibility, automation and problem solving**.
+- 🧩 Most of my work happens where **architecture, networking, identity, visibility, automation and decision-making** overlap.
 - 🔧 I'm **not a software developer by trade**. I use code, APIs and small systems when they're the shortest useful path to solving a problem.
 - 🧠 I explore **AI, applications and emerging technologies** whenever they create an interesting systems problem.
 - 🎮 Outside work, I usually end up somewhere around **gaming, technical labs, hardware and random projects**.
@@ -31,7 +31,7 @@ I'm **Eddy Vargas**, a security professional who likes taking messy systems, fin
 
 <div align="center">
 
-## `signals`
+## `signal map`
 
 <img src="assets/signals-dark.v6.svg" width="100%" alt="Systems thinking and problem-solving workflow">
 
@@ -41,13 +41,13 @@ I'm **Eddy Vargas**, a security professional who likes taking messy systems, fin
 
 <div align="center">
 
-## `selected builds`
+## `things I couldn't leave alone`
 
-<img src="assets/projects-dark.v4.svg" width="100%" alt="Selected personal projects">
+<img src="assets/projects-dark.v5.svg" width="100%" alt="Selected personal projects">
 
 <br><br>
 
-<sub>Personal and portfolio projects only. Employer environments, internal tooling and operational details stay off the public profile.</sub>
+<sub>Personal and portfolio work only. Employer context stays off the internet.</sub>
 
 <br><br>
 
@@ -59,9 +59,9 @@ I'm **Eddy Vargas**, a security professional who likes taking messy systems, fin
 
 <div align="center">
 
-## `toolbox`
+## `field kit / 23`
 
-<img src="assets/toolbox-dark.v5.svg" width="100%" alt="Public-safe personal project toolbox">
+<img src="assets/toolbox-dark.v6.svg" width="100%" alt="Neavus field kit">
 
 <br>
 
@@ -73,9 +73,9 @@ I'm **Eddy Vargas**, a security professional who likes taking messy systems, fin
 
 <div align="center">
 
-## `credentials`
+## `receipts`
 
-<img src="assets/credentials-dark.v4.svg" width="100%" alt="Professional credentials">
+<img src="assets/credentials-dark.v5.svg" width="100%" alt="Credentials and current rabbit holes">
 
 </div>
 
