@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="270" viewBox="0 0 1200 270" role="img" aria-labelledby="title">
-  <title id="title">Security focus areas</title>
+  <title id="title">Technical focus areas</title>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#F8FAFC"/>
@@ -8,46 +8,42 @@
   </defs>
   <rect width="1200" height="270" rx="20" fill="url(#bg)"/>
   <rect x="1" y="1" width="1198" height="268" rx="19" fill="none" stroke="#CBD5E1"/>
-
   <g font-family="Inter, Segoe UI, Arial, sans-serif">
     <g transform="translate(28,28)">
       <rect width="268" height="214" rx="16" fill="#FFFFFF" stroke="#D8E0E8"/>
       <circle cx="30" cy="31" r="8" fill="#15803D"/>
-      <text x="50" y="38" font-size="20" font-weight="700" fill="#0F172A">AI Security</text>
-      <text x="24" y="82" font-size="16" fill="#334155">LLM runtime security</text>
-      <text x="24" y="112" font-size="16" fill="#334155">Agent &amp; MCP security</text>
-      <text x="24" y="142" font-size="16" fill="#334155">AI governance</text>
-      <text x="24" y="172" font-size="16" fill="#334155">Prompt / output inspection</text>
+      <text x="50" y="38" font-size="20" font-weight="700" fill="#0F172A">Security Engineering</text>
+      <text x="24" y="82" font-size="16" fill="#334155">Controls &amp; enforcement</text>
+      <text x="24" y="112" font-size="16" fill="#334155">Security automation</text>
+      <text x="24" y="142" font-size="16" fill="#334155">Detection &amp; telemetry</text>
+      <text x="24" y="172" font-size="16" fill="#334155">AI / API security</text>
     </g>
-
     <g transform="translate(320,28)">
       <rect width="268" height="214" rx="16" fill="#FFFFFF" stroke="#D8E0E8"/>
       <circle cx="30" cy="31" r="8" fill="#0284C7"/>
-      <text x="50" y="38" font-size="20" font-weight="700" fill="#0F172A">Architecture</text>
-      <text x="24" y="82" font-size="16" fill="#334155">Security controls</text>
-      <text x="24" y="112" font-size="16" fill="#334155">Threat modeling</text>
-      <text x="24" y="142" font-size="16" fill="#334155">Risk engineering</text>
-      <text x="24" y="172" font-size="16" fill="#334155">Secure architecture</text>
+      <text x="50" y="38" font-size="20" font-weight="700" fill="#0F172A">Hacking</text>
+      <text x="24" y="82" font-size="16" fill="#334155">CTFs &amp; labs</text>
+      <text x="24" y="112" font-size="16" fill="#334155">Attack paths</text>
+      <text x="24" y="142" font-size="16" fill="#334155">Web / API testing</text>
+      <text x="24" y="172" font-size="16" fill="#334155">Adversarial thinking</text>
     </g>
-
     <g transform="translate(612,28)">
       <rect width="268" height="214" rx="16" fill="#FFFFFF" stroke="#D8E0E8"/>
       <circle cx="30" cy="31" r="8" fill="#15803D"/>
-      <text x="50" y="38" font-size="20" font-weight="700" fill="#0F172A">Zero Trust</text>
-      <text x="24" y="82" font-size="16" fill="#334155">SASE / ZTNA</text>
+      <text x="50" y="38" font-size="20" font-weight="700" fill="#0F172A">Architecture</text>
+      <text x="24" y="82" font-size="16" fill="#334155">Zero Trust / SASE</text>
       <text x="24" y="112" font-size="16" fill="#334155">Network security</text>
-      <text x="24" y="142" font-size="16" fill="#334155">Identity</text>
-      <text x="24" y="172" font-size="16" fill="#334155">Segmentation</text>
+      <text x="24" y="142" font-size="16" fill="#334155">Identity &amp; segmentation</text>
+      <text x="24" y="172" font-size="16" fill="#334155">Threat &amp; risk modeling</text>
     </g>
-
     <g transform="translate(904,28)">
       <rect width="268" height="214" rx="16" fill="#FFFFFF" stroke="#D8E0E8"/>
       <circle cx="30" cy="31" r="8" fill="#0284C7"/>
-      <text x="50" y="38" font-size="20" font-weight="700" fill="#0F172A">Engineering</text>
-      <text x="24" y="82" font-size="16" fill="#334155">Automation</text>
-      <text x="24" y="112" font-size="16" fill="#334155">API integrations</text>
-      <text x="24" y="142" font-size="16" fill="#334155">Detection</text>
-      <text x="24" y="172" font-size="16" fill="#334155">Observability</text>
+      <text x="50" y="38" font-size="20" font-weight="700" fill="#0F172A">Software Builder</text>
+      <text x="24" y="82" font-size="16" fill="#334155">Business tools</text>
+      <text x="24" y="112" font-size="16" fill="#334155">Dashboards &amp; APIs</text>
+      <text x="24" y="142" font-size="16" fill="#334155">Integrations</text>
+      <text x="24" y="172" font-size="16" fill="#334155">Useful side projects</text>
     </g>
   </g>
 </svg>
