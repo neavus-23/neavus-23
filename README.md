@@ -1,15 +1,15 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.v2.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.v2.svg">
-  <img src="assets/banner-dark.v2.svg" width="100%" alt="Eddy Vargas — Cybersecurity, Hacking, Controls and Problem Solving">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.v3.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.v3.svg">
+  <img src="assets/banner-dark.v3.svg" width="100%" alt="Eddy Vargas — Cybersecurity, Security Architecture, Controls and Problem Solving">
 </picture>
 
 <br>
 
 <a href="https://github.com/neavus-23">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=850&color=22C55E&center=true&vCenter=true&width=980&lines=Eddy+Vargas+%E2%80%94+Cybersecurity+Specialist;Security+Engineering+%C2%B7+Hacking+%C2%B7+Architecture+%C2%B7+Problem+Solving;Controls+when+possible+%C2%B7+Automation+when+useful+%C2%B7+Code+when+necessary;I+break+things+in+labs+so+production+can+die+of+natural+causes" alt="Typing introduction">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=850&color=22C55E&center=true&vCenter=true&width=980&lines=Eddy+Vargas+%E2%80%94+Cybersecurity+Specialist;Security+Engineering+%C2%B7+Architecture+%C2%B7+Controls+%C2%B7+Automation;Solving+technical+problems+with+context+and+just+enough+code;%22Trust+me%22+is+not+a+security+control" alt="Typing introduction">
 </a>
 
 <br>
@@ -22,15 +22,15 @@
 
 ## `whoami`
 
-I'm **Eddy Vargas**, a cybersecurity professional from Costa Rica who enjoys understanding how systems work, how they fail, and how to make them harder to abuse.
+I'm **Eddy Vargas**, a cybersecurity professional from Costa Rica who enjoys understanding complex systems, finding where they can fail, and turning that context into practical security decisions.
 
-My work and interests sit somewhere between **security engineering**, **architecture**, **network security**, **hacking**, **controls**, **automation**, **APIs** and **problem solving**.
+My work and interests sit around **security engineering**, **architecture**, **network security**, **identity**, **controls**, **automation**, **APIs** and **problem solving**.
 
-I'm **not a software developer by trade**. I use code when it is the shortest path from a problem to a useful solution — whether that means automating a security check, correlating data from several platforms, building an internal tool or solving a business problem.
+I'm **not a software developer by trade**. I use code when it helps solve the problem better — whether that's automating a security check, correlating data from several platforms, building an internal tool or improving a business workflow.
 
-AI security is one of the areas I explore, alongside offensive security, Zero Trust, infrastructure, identity, application security and whatever technical rabbit hole looks interesting enough that week.
+I also explore AI security, application security and emerging technologies when they intersect with real security problems rather than because they're fashionable.
 
-> I like systems with logs. Postmortems are easier when the corpse leaves evidence.
+> I like systems with logs. Memory is unreliable; evidence has better uptime.
 
 ---
 
@@ -39,9 +39,9 @@ AI security is one of the areas I explore, alongside offensive security, Zero Tr
 ## `what_i_do`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/focus-dark.v2.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/focus-light.v2.svg">
-  <img src="assets/focus-dark.v2.svg" width="100%" alt="Technical focus areas">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/focus-dark.v3.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/focus-light.v3.svg">
+  <img src="assets/focus-dark.v3.svg" width="100%" alt="Technical focus areas">
 </picture>
 
 </div>
@@ -54,23 +54,23 @@ AI security is one of the areas I explore, alongside offensive security, Zero Tr
 
 **AI Runtime Security & Governance Platform**
 
-A security control plane and runtime gateway for applications consuming LLMs, AI agents and MCP. It explores runtime protection, policy enforcement, evidence, asset visibility and governance as engineering problems rather than checkbox features.
+A security control plane and runtime gateway for applications consuming LLMs, AI agents and MCP. It explores policy enforcement, runtime protection, evidence, asset visibility and governance as engineering problems rather than checkbox features.
 
 `Runtime Protection` · `Policy Enforcement` · `AI Asset Graph` · `MCP Governance` · `Risk` · `Evidence & Audit`
 
-> Private project. AI Security is part of what I work on — not the entirety of what I do.
+> Private project. AI Security is one area I explore — not the entirety of what I do.
 
 ### ◈ CyberHub
 
 **Enterprise Security Visibility & Control Platform**
 
-A modular security operations solution built to correlate information from different security platforms, automate repetitive checks and turn scattered operational data into useful security context.
+A modular security operations solution designed to correlate information from different security platforms, automate repetitive checks and turn scattered operational data into useful security context.
 
 `Cisco ASA / FTD` · `Sophos Central` · `CyberArk` · `Active Directory` · `SEPM`
 
 ### ⚔️ Souls Dev Skill
 
-An experimental workflow for disciplined, evidence-driven technical work built around one rule: **never trust a successful implementation until you've tried to kill it yourself**.
+An experimental workflow for disciplined, evidence-driven technical work built around one rule: **never trust a successful implementation until you've tried to prove it wrong**.
 
 [View repository →](https://github.com/neavus-23/souls-dev-skill)
 
@@ -80,13 +80,13 @@ An experimental workflow for disciplined, evidence-driven technical work built a
 
 I also enjoy solving non-security problems for businesses.
 
-Not because I want to become a developer, but because sometimes the best answer to an operational problem is a small system instead of another spreadsheet, another manual process or another meeting that should have been an email.
+Sometimes the right answer is a process change. Sometimes it's automation. Sometimes it's a small system that prevents another spreadsheet from evolving into critical infrastructure.
 
 Some private projects include:
 
 - **Flashé Loyalty** — loyalty and customer-retention solution.
 - **Flashé Manager** — internal operations and customer-management tooling.
-- **Automation utilities** — small tools for eliminating repetitive work before it eliminates my will to live.
+- **Automation utilities** — small tools for removing repetitive work before repetition becomes an incident of its own.
 
 My usual approach is simple: **understand the problem first, then choose the smallest solution that actually fixes it.**
 
@@ -118,7 +118,7 @@ My usual approach is simple: **understand the problem first, then choose the sma
 
 <br>
 
-`Security Engineering` · `Architecture` · `Offensive Security` · `Controls` · `Automation` · `AI Security`
+`Security Engineering` · `Architecture` · `Network Security` · `Controls` · `Automation` · `AI Security`
 
 </div>
 
@@ -129,9 +129,9 @@ My usual approach is simple: **understand the problem first, then choose the sma
 ```text
 understand  → know what actually exists
 observe     → collect evidence, not assumptions
-break       → find out how it fails
-control     → reduce what can go wrong
-solve       → use the simplest thing that actually works
+design      → choose controls that fit the problem
+implement   → make the decision real
+automate    → stop solving the same problem manually
 verify      → because "it should work" is not a test
 ```
 
@@ -143,9 +143,11 @@ verify      → because "it should work" is not a test
 
 When I'm not working on security problems, there's a good chance I'm somewhere around:
 
-`Gaming` · `CTFs & hacking labs` · `PC hardware` · `FPV drones` · `Photography / video` · `Random projects that started as "this should be easy"`
+`Gaming` · `CTFs & hacking labs` · `PC hardware` · `FPV drones` · `Photography / video` · `Projects that started with "this should take an hour"`
 
-I like games for roughly the same reason I like security: **learn the rules, understand the system, find the edge cases, defeat the boss.**
+I enjoy hacking and CTFs as a way to understand systems from another angle — curiosity first, job title second.
+
+And games? Mostly the same pattern: **learn the rules, understand the system, find the edge cases, defeat the boss.**
 
 ---
 
@@ -153,12 +155,12 @@ I like games for roughly the same reason I like security: **learn the rules, und
 
 ## `currently_exploring`
 
-Security Architecture · Offensive Security · Attack Paths · API Security · Zero Trust  
-Security Automation · AI / Agent Security · MCP · Business Solutions · Whatever breaks next
+Security Architecture · Security Engineering · Zero Trust · Network Security · API Security  
+Security Automation · AI / Agent Security · MCP · Business Solutions · Whatever problem looks interesting next
 
 <br><br>
 
-<sub>understand things · break things · control risk · solve problems</sub>
+<sub>understand the system · design the control · solve the problem · verify the result</sub>
 
 <br>
 
