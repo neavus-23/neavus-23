@@ -45,12 +45,6 @@ I'm **Eddy Vargas**. I like taking messy technical environments, finding the sig
 
 <img src="assets/projects-dark.v5.svg" width="100%" alt="Selected personal projects">
 
-<br><br>
-
-<sub>Personal and portfolio work only. Employer context stays off the internet.</sub>
-
-<br><br>
-
 <sub>Also experimenting with <a href="https://github.com/neavus-23/souls-dev-skill">Souls Dev Skill</a> — evidence-driven technical work with a healthy distrust of implementations that pass on the first try.</sub>
 
 </div>
